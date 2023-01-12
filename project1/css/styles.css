@@ -3,7 +3,7 @@ html {
 }
 
 .square1 {
-    position: relative;
+    position: absolute;
     width: 71.428571%;
     border: solid 1px black;
 }
