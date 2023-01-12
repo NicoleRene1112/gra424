@@ -12,35 +12,38 @@ html {
 }
 
 .square1 {
-    position: absolute;
-    width: 71.428571%;
+    display: flex;
+    width: 71.428571vw;
+    height: 71.428571vw;
     border: solid 1px rgb(0, 0, 0, 20%);
 }
-.square1:after {
+/*.square1:after {
     content: "";
     display: block;
     padding-bottom: 100%;
-}
+}*/
 
 .square2 {
-    position: absolute;
-    width: 42.857143%;
+    display: flex;
+    width: 42.857143vw;
+    height: 42.857143vw;
     border: solid 1px rgb(0, 0, 0, 20%);
     background: white;
 }
-.square2:after {
+/*.square2:after {
     content: "";
     display: block;
     padding-bottom: 100%;
-}
+}*/
 
 .square3 {
-    position: absolute;
+    display: flex;
     width: 14.285714%;
+    height: 14.285714%;
     background: black;
 }
-.square3:after {
+/*.square3:after {
     content: "";
     display: block;
     padding-bottom: 100%;
-}
+}*/
