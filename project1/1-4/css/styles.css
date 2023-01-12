@@ -6,6 +6,7 @@
 }
 
 .board {
+    align-items: center;
     display: flex;
     background-color: white;
     height: 71.428571vh;
@@ -15,18 +16,20 @@
 }
 
 .line-container {
-    display: flex;
+    display: grid;
     background-color: white;
+    margin-left:auto;
+    margin-right:auto;
     height: 42.857143vh;
     width: 42.857143vw;
-    margin: auto;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fit, 1.82vw);
 }
 
 .line {
-    display: flex;
+    background-color: black;
     height: 42.857143vh;
     width: 1.82vw;
-    background-color: black;
     margin: auto;
 }
 
@@ -34,7 +37,4 @@
     background-color: white;
     height: 14.285714vh;
     width: 14.285714vw;
-    position: relative;
-    align-items: center;
-    margin: auto;
 }
