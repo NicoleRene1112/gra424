@@ -23,7 +23,7 @@
     height: 42.857143vh;
     width: 42.857143vw;
     justify-content: center;
-    grid-template-columns: repeat(auto-fit, 1.82vw);
+    grid-template-columns: repeat(auto-fit, 3.57vw);
 }
 
 .line {
