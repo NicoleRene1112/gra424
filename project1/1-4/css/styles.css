@@ -43,16 +43,18 @@ body {
 
 .subtraction1-container {
     display: flex;
-    height:.285714vh;
-    width:.285714vw;
+    height: 14.285714vh;
+    width: 14.285714vw;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    top:;
 }
 
 .line {
     background-color: white;
     display: flex;
     height: 42.857143vh;
-    width: 1.82vw;
+    width: 1.86335404vw;
     margin: auto;
-    position: relative;
-    top: 10px;
 }
