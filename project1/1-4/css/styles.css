@@ -33,3 +33,9 @@ body {
     background-color: black;
     margin: auto;
 }
+
+.smallbox {
+    display: flex;
+    height:.285714vh;
+    width:.285714vw;
+}
