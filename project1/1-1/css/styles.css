@@ -11,6 +11,7 @@ html {
 
 .square1 {
     display: flex;
+    background-color: white;
     height: 71.428571vh;
     width: 71.428571vw;
     border: solid .25pt rgb(0, 0, 0, 20%);
@@ -21,7 +22,7 @@ html {
     display: flex;
     height: 42.857143vh;
     width: 42.857143vw;
-    background: black;
+    background-color: black;
     margin: auto;
 }
 
@@ -29,6 +30,6 @@ html {
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background: white;
+    background-color: white;
     margin: auto;
 }
