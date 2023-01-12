@@ -3,10 +3,12 @@ html {
 }
 
 .container {
-    align-items: center;
+    /*align-items: center;*/
     display: flex;
-    justify-content: center;
-    justify-items: center;
+    /*justify-content: center;
+    justify-items: center;*/
+    height: 100vw;
+    width: 100vw;
 }
 
 .square1 {
