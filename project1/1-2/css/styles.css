@@ -1,0 +1,43 @@
+html {
+    --white: #FFFFFF;
+}
+
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.square1 {
+    position: absolute;
+    width: 71.428571%;
+    border: solid 1px black;
+}
+.square1:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
+
+.square2 {
+    position: absolute;
+    width: 42.857143%;
+    background: black;
+}
+.square2:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
+
+.square3 {
+    position: absolute;
+    width: 14.285714%;
+    background: white;
+}
+.square3:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
