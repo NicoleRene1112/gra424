@@ -7,15 +7,15 @@ html {
     display: flex;
     /*justify-content: center;
     justify-items: center;*/
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vw;
 }
 
 .square1 {
     display: flex;
     /*position: absolute;*/
-    height: 71.428571%;
-    width: 71.428571%;
+    height: 71.428571vw;
+    width: 71.428571vw;
     border: solid 1px black;
     margin: auto;
 }
@@ -28,8 +28,8 @@ html {
 .square2 {
     display: flex;
     /*position: absolute;*/
-    height: 42.857143%;
-    width: 42.857143%;
+    height: 42.857143vw;
+    width: 42.857143vw;
     background: black;
     margin: auto;
 }
@@ -42,8 +42,8 @@ html {
 .square3 {
     display: flex;
     /*position: absolute;*/
-    height: 14.285714%;
-    width: 14.285714%;
+    height: 14.285714vw;
+    width: 14.285714vw;
     background: white;
     margin: auto;
 }
