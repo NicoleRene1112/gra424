@@ -23,3 +23,14 @@ html {
     display: block;
     padding-bottom: 100%;
 }
+
+.square3 {
+    position: absolute;
+    width: 14.285714%;
+    background: white;
+}
+.square3:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
