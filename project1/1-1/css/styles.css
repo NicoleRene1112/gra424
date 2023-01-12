@@ -14,8 +14,10 @@ html {
 .square1 {
     display: flex;
     /*position: absolute;*/
+    height: 71.428571%;
     width: 71.428571%;
     border: solid 1px black;
+    margin: auto;
 }
 /*.square1:after {
     content: "";
@@ -26,8 +28,10 @@ html {
 .square2 {
     display: flex;
     /*position: absolute;*/
+    height: 42.857143%;
     width: 42.857143%;
     background: black;
+    margin: auto;
 }
 /*.square2:after {
     content: "";
@@ -38,8 +42,10 @@ html {
 .square3 {
     display: flex;
     /*position: absolute;*/
+    height: 14.285714%;
     width: 14.285714%;
     background: white;
+    margin: auto;
 }
 /*.square3:after {
     content: "";
