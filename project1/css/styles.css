@@ -16,7 +16,7 @@ html {
 .square2 {
     position: absolute;
     width: 42.857143%;
-    color: black;
+    background: black;
 }
 .square2:after {
     content: "";
