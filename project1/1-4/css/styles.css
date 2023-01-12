@@ -18,7 +18,7 @@ body {
     margin: auto;
 }
 
-.line-container {
+.addition1-container {
     display: flex;
     background-color: white;
     height: 42.857143vh;
@@ -34,7 +34,7 @@ body {
     margin: auto;
 }
 
-.smallbox {
+.subtraction1-container {
     display: flex;
     height:.285714vh;
     width:.285714vw;
