@@ -15,7 +15,7 @@ body{
 }
 .square1:after {
     content: "";
-    display: block;
+    /*display: block;*/
     padding-bottom: 100%;
 }
 
@@ -26,7 +26,7 @@ body{
 }
 .square2:after {
     content: "";
-    display: block;
+    /*display: block;*/
     padding-bottom: 100%;
 }
 
@@ -37,6 +37,6 @@ body{
 }
 .square3:after {
     content: "";
-    display: block;
+    /*display: block;*/
     padding-bottom: 100%;
 }
