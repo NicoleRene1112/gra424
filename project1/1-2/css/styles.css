@@ -7,14 +7,15 @@ html {
     display: flex;
     /*justify-content: center;
     justify-items: center;*/
-    height: 100vw;
     width: 100vw;
+    height: 100vw;
 }
 
 .square1 {
     display: flex;
-    width: 71.428571vw;
+    /*position: absolute;*/
     height: 71.428571vw;
+    width: 71.428571vw;
     border: solid 1px rgb(0, 0, 0, 20%);
     margin: auto;
 }
@@ -26,10 +27,11 @@ html {
 
 .square2 {
     display: flex;
-    width: 42.857143vw;
+    /*position: absolute;*/
     height: 42.857143vw;
-    border: solid 1px rgb(0, 0, 0, 20%);
+    width: 42.857143vw;
     background: white;
+    border: solid 1px rgb(0, 0, 0, 20%);
     margin: auto;
 }
 /*.square2:after {
@@ -40,8 +42,9 @@ html {
 
 .square3 {
     display: flex;
-    width: 14.285714%;
-    height: 14.285714%;
+    /*position: absolute;*/
+    height: 14.285714vw;
+    width: 14.285714vw;
     background: black;
     margin: auto;
 }
