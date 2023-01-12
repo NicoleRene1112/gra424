@@ -16,14 +16,12 @@
 }
 
 .line-container {
-    display: grid;
+    display: flex;
     background-color: white;
     margin-left:auto;
     margin-right:auto;
     height: 42.857143vh;
     width: 42.857143vw;
-    justify-content: center;
-    grid-template-columns: repeat(auto-fit, 3.57vw);
 }
 
 .line {
