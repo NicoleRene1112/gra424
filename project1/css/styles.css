@@ -5,6 +5,7 @@ html {
 .square {
     position: relative;
     width: 71.428571%;
+    border: solid 1px black;
 }
 .square:after {
     content: "";
