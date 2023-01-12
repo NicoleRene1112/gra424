@@ -31,9 +31,11 @@
 }
 
 .smallbox {
+    background-color: white;
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: white;
+    position: relative;
+    align-items: center;
     margin: auto;
 }
