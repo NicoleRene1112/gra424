@@ -17,11 +17,11 @@ body{
     width: 71.428571%;
     border: solid 1px black;
 }
-.square1:after {
+/*.square1:after {
     content: "";
     display: block;
     padding-bottom: 100%;
-}
+}*/
 
 .square2 {
     display: flex;
@@ -29,11 +29,11 @@ body{
     width: 42.857143%;
     background: black;
 }
-.square2:after {
+/*.square2:after {
     content: "";
     display: block;
     padding-bottom: 100%;
-}
+}*/
 
 .square3 {
     display: flex;
@@ -41,8 +41,8 @@ body{
     width: 14.285714%;
     background: white;
 }
-.square3:after {
+/*.square3:after {
     content: "";
     display: block;
     padding-bottom: 100%;
-}
+}*/
