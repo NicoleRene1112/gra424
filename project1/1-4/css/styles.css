@@ -10,7 +10,6 @@ body{
 }
 
 .board {
-    align-items: center;
     display: flex;
     background-color: white;
     height: 71.428571vh;
@@ -39,6 +38,8 @@ body{
     background-color: white;
     height: 14.285714vh;
     width: 14.285714vw;
+    position: relative;
+    top: -50vh;
 }
 
 .line2 {
