@@ -16,7 +16,7 @@ html {
     /*position: absolute;*/
     height: 71.428571vw;
     width: 71.428571vw;
-    border: solid 1px #bbbbbb;
+    border: solid 1px rgb(0, 0, 0, 20%);
     margin: auto;
 }
 /*.square1:after {
