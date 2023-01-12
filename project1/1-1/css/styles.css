@@ -12,6 +12,7 @@ body{
 }
 
 .square1 {
+    display: flex;
     position: absolute;
     width: 71.428571%;
     border: solid 1px black;
@@ -23,6 +24,7 @@ body{
 }
 
 .square2 {
+    display: flex;
     position: absolute;
     width: 42.857143%;
     background: black;
@@ -34,6 +36,7 @@ body{
 }
 
 .square3 {
+    display: flex;
     position: absolute;
     width: 14.285714%;
     background: white;
