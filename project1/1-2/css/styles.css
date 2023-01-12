@@ -23,7 +23,8 @@ body{
 .square2 {
     position: absolute;
     width: 42.857143%;
-    background: black;
+    border: solid 1px black;
+    background: white;
 }
 .square2:after {
     content: "";
@@ -34,7 +35,7 @@ body{
 .square3 {
     position: absolute;
     width: 14.285714%;
-    background: white;
+    background: black;
 }
 .square3:after {
     content: "";
