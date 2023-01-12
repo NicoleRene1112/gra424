@@ -16,6 +16,7 @@ html {
     width: 71.428571vw;
     height: 71.428571vw;
     border: solid 1px rgb(0, 0, 0, 20%);
+    margin: auto;
 }
 /*.square1:after {
     content: "";
@@ -29,6 +30,7 @@ html {
     height: 42.857143vw;
     border: solid 1px rgb(0, 0, 0, 20%);
     background: white;
+    margin: auto;
 }
 /*.square2:after {
     content: "";
@@ -41,6 +43,7 @@ html {
     width: 14.285714%;
     height: 14.285714%;
     background: black;
+    margin: auto;
 }
 /*.square3:after {
     content: "";
