@@ -2,23 +2,23 @@ html {
     --white: #FFFFFF;
 }
 
-.square {
+.square1 {
     position: relative;
     width: 71.428571%;
     border: solid 1px black;
 }
-.square:after {
+.square1:after {
     content: "";
     display: block;
     padding-bottom: 100%;
 }
 
-.inner {
+.square2 {
     position: absolute;
     width: 42.857143%;
     color: black;
 }
-.inner:after {
+.square2:after {
     content: "";
     display: block;
     padding-bottom: 100%;
