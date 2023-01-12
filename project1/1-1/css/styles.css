@@ -2,18 +2,18 @@ html {
     --white: #FFFFFF;
 }
 
-body{
-    align-items: center;
+.container {
+    /*align-items: center;*/
     display: flex;
-    justify-content: center;
-    justify-items: center;
+    /*justify-content: center;
+    justify-items: center;*/
     width: 100vw;
-    height: 100;
+    height: 100vw;
 }
 
 .square1 {
     display: flex;
-    position: absolute;
+    /*position: absolute;*/
     width: 71.428571%;
     border: solid 1px black;
 }
@@ -25,7 +25,7 @@ body{
 
 .square2 {
     display: flex;
-    position: absolute;
+    /*position: absolute;*/
     width: 42.857143%;
     background: black;
 }
@@ -37,7 +37,7 @@ body{
 
 .square3 {
     display: flex;
-    position: absolute;
+    /*position: absolute;*/
     width: 14.285714%;
     background: white;
 }
