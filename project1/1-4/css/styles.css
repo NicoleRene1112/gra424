@@ -1,4 +1,4 @@
-body{
+body {
     overflow: hidden;
 }
 
@@ -21,29 +21,15 @@ body{
 .line-container {
     display: flex;
     background-color: white;
-    margin-left:auto;
-    margin-right:auto;
     height: 42.857143vh;
     width: 42.857143vw;
-}
-
-.line {
-    background-color: black;
-    height: 42.857143vh;
-    width: 1.82vw;
     margin: auto;
 }
 
-.smallbox {
-    background-color: white;
-    height: 14.285714vh;
-    width: 14.285714vw;
-    position: relative;
-    top: -50vh;
-}
-
-.line2 {
-    background-color: white;
+.line {
+    display: flex;
     height: 42.857143vh;
     width: 1.82vw;
+    background-color: black;
+    margin: auto;
 }
