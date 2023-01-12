@@ -14,7 +14,7 @@ html {
 }
 
 .inner {
-    position: relative;
+    position: absolute;
     width: 42.857143%;
     color: black;
 }
