@@ -1,0 +1,32 @@
+.webpage {
+    background-color: white;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.board {
+    display: flex;
+    background-color: white;
+    height: 71.428571vh;
+    width: 71.428571vw;
+    border: solid .25pt rgb(0, 0, 0, 100%);
+    margin: auto;
+}
+
+.line-container {
+    display: flex;
+    background-color: white;
+    height: 42.857143vh;
+    width: 42.857143vw;
+    border: solid .25pt rgb(0, 0, 0, 20%);
+    margin: auto;
+}
+
+.line {
+    display: flex;
+    height: 14.285714vh;
+    width: 1.82vw;
+    background-color: white;
+    margin: auto;
+}
