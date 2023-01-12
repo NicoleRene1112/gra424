@@ -39,3 +39,11 @@ body {
     height:.285714vh;
     width:.285714vw;
 }
+
+.line {
+    display: flex;
+    height: 42.857143vh;
+    width: 1.82vw;
+    background-color: white;
+    margin: auto;
+}
