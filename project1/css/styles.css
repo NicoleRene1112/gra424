@@ -12,3 +12,14 @@ html {
     display: block;
     padding-bottom: 100%;
 }
+
+.inner {
+    position: relative;
+    width: 42.857143%;
+    color: black;
+}
+.inner:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
