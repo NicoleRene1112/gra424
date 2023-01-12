@@ -2,7 +2,7 @@ html {
     --white: #FFFFFF;
 }
 
-body{
+.container {
     align-items: center;
     display: flex;
     justify-content: center;
