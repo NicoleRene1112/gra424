@@ -18,6 +18,13 @@ body {
     margin: auto;
 }
 
+.working-area {
+    background-color: white;
+    height: 42.857143vh;
+    width: 42.857143vw;
+    margin: auto;
+}
+
 .addition1-container {
     display: flex;
     background-color: white;
