@@ -29,7 +29,7 @@ body {
 .line {
     display: flex;
     height: 42.857143vh;
-    width: 1.82vw;
+    width: 0.35714vw;
     background-color: black;
     margin: auto;
 }
