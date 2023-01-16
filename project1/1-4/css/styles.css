@@ -58,7 +58,7 @@ body {
     height: 42.857143vh;
     width: 1.86335404vw;
     margin: auto;
-    position: absolute;
+    position: relative;
     top: -15vh;
 }
 
