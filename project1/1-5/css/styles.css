@@ -87,7 +87,7 @@ body {
 
 .addition2-container {
     display: flex;
-    background-color: white;
+    /*background-color: white;*/
     height: 42.857143vh;
     width: 42.857143vw;
     margin: auto;
