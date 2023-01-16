@@ -94,7 +94,7 @@ body {
     display: flex;
     /*height: 42.857143vh;
     width: 0.35714vw;*/
-    margin: auto;
+    margin: 0;
     height: calc(var(--parentHeight) / 1);
     width: calc(var(--parentWidth) / 11.35);
 }
