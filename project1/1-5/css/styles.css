@@ -41,12 +41,6 @@ body {
     background-color: black;
     margin: auto;
 }
-.first {
-    margin-left: 0;
-}
-.last {
-    margin-right: 0;
-}
 
 /*.subtraction1-container {
     display: flex;
@@ -101,4 +95,11 @@ body {
     width: 0.35714vw;
     background-color: black;
     margin: auto;
+}
+
+.first {
+    margin-left: 0;
+}
+.last {
+    margin-right: 0;
 }
