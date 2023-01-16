@@ -91,6 +91,8 @@ body {
     height: 42.857143vh;
     width: 42.857143vw;
     margin: auto;
+    position: relative;
+    top: -84.5vh;
 }
 
 .line3 {
