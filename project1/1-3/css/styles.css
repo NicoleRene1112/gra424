@@ -33,3 +33,9 @@ body {
     background-color: black;
     margin: auto;
 }
+.first {
+    margin-left: 0;
+}
+.last {
+    margin-right: 0;
+}
