@@ -45,8 +45,8 @@ body {
 .subtraction1-container {
     clip-path: inset(14.285714vh 14.285714vw);
     display: flex;
-    /*height: 14.285714vh;
-    width: 14.285714vw;*/
+    *height: 14.285714vh;
+    width: 14.285714vw;
     margin: auto;
     overflow: hidden;
     position: relative;
