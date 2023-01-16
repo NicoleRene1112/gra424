@@ -48,9 +48,11 @@ body {
     position: relative;
     top: -42.857143vh;
     clip-path: inset(30% 30%);
-    height: 42.857143vh;
-    width: 42.857143vw;
+    /*height: 42.857143vh;
+    width: 42.857143vw;*/
     margin: auto;
+    --parentHeight: 42.857143vh;
+    --parentWidth: 42.857143vw;
 }
 
 .line2 {
