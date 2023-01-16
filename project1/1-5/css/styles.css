@@ -37,12 +37,18 @@ body {
 .line {
     display: flex;
     height: 42.857143vh;
-    width: 1.86335404vw;
+    width: 0.35714vw;
     background-color: black;
     margin: auto;
 }
+.first {
+    margin-left: 0;
+}
+.last {
+    margin-right: 0;
+}
 
-.subtraction1-container {
+/*.subtraction1-container {
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
@@ -58,13 +64,23 @@ body {
     height: 42.857143vh;
     width: 1.86335404vw;
     margin: auto;
+}*/
+
+.subtraction1-container {
+    align-items: center;
+    display: flex;
+    position: relative;
+    top: -42.857143vh;
+    clip-path: inset(30% 30%);
+    margin: auto;
+    --parentHeight: 42.857143vh;
+    --parentWidth: 42.857143vw;
 }
+
 .line2 {
-	background : #231F20;
-	background : rgba(35, 31, 32, 1);
-	position : absolute ;
-	left : 0px;
-	top : 0px;
-	width : 44px;
-	height : 513px;
+    align-content: center;
+    display: flex;
+    margin: -1%;
+    height: calc(var(--parentHeight) / 1);
+    width: calc(var(--parentWidth) / 9.75);
 }
