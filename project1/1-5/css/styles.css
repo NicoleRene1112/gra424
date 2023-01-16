@@ -84,3 +84,19 @@ body {
     height: calc(var(--parentHeight) / 1);
     width: calc(var(--parentWidth) / 9.75);
 }
+
+.addition2-container {
+    display: flex;
+    background-color: white;
+    height: 42.857143vh;
+    width: 42.857143vw;
+    margin: auto;
+}
+
+.line3 {
+    display: flex;
+    height: 42.857143vh;
+    width: 0.35714vw;
+    background-color: black;
+    margin: auto;
+}
