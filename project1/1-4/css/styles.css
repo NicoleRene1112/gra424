@@ -47,7 +47,7 @@ body {
     display: flex;
     position: relative;
     top: -42.857143vh;
-    /*clip-path: inset(30% 30%);*/
+    clip-path: inset(30% 30%);
     height: 42.857143vh;
     width: 42.857143vw;
     margin: auto;
