@@ -42,7 +42,7 @@ body {
     margin: auto;
 }
 
-.subtraction1-clip {
+/*.subtraction1-clip {
     clip-path: inset(14.285714vh 14.285714vw);
     display: flex;
     height: 14.285714vh;
@@ -51,13 +51,16 @@ body {
     overflow: hidden;
     position: relative;
     top:-28.17384281vh;
-}
+}*/
 
 .line2-container {
     display: flex;
-    position: relative;
-    top: -48.857143vh;
+    /*position: relative;
+    top: -48.857143vh;*/
     clip-path: inset(14.285714% 14.285714%);
+    height: 42.857143vh;
+    width: 42.857143vw;
+    margin: auto;
 }
 
 .line2 {
