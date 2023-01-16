@@ -73,4 +73,3 @@ body {
     height: calc(var(--parentHeight) / 1);
     width: calc(var(--parentWidth) / 9.75);
 }
-
