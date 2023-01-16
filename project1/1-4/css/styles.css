@@ -55,6 +55,8 @@ body {
 
 .line2-container {
     display: flex;
+    position: relative;
+    top: -28.17384281vh;
 }
 
 .line2 {
