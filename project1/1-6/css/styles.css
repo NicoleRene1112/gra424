@@ -93,9 +93,9 @@ body {
     display: flex;
     /*height: 42.857143vh;
     width: 0.35714vw;*/
-    margin: 0;
-    height: calc(var(--parentHeight) / 1);
-    width: calc(var(--parentWidth) / 11.35);
+    margin: auto;
+    height: 100%;
+    width: -webkit-fill-available;
 }
 
 .subtraction2-container {
