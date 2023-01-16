@@ -59,15 +59,4 @@ body {
     width: 1.86335404vw;
     margin: auto;
 }
-.line2 {
-	border-style : Solid;
-	border-color : #FFFFFF;
-	border-color : rgba(255, 255, 255, 1);
-	border-width : 5px;
-	/*position : absolute ;*/
-	left : 0px;
-	top : 0px;
-	/*width : 85px;
-	height : 297px;*/
-}
 
