@@ -82,12 +82,12 @@ body {
 .addition2-container {
     display: flex;
     /*background-color: white;*/
-    clip-path: inset(0.7%);
+    clip-path: inset(0.1%);
     height: 42.857143vh;
     width: 42.857143vw;
     margin: auto;
     position: relative;
-    top: -84.5vh;
+    top: -84.7vh;
 }
 
 .line3 {
