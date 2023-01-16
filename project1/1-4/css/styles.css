@@ -56,7 +56,7 @@ body {
 .line2-container {
     display: flex;
     position: relative;
-    top: -28.17384281vh;
+    top: -42.857143vh;
     clip-path: inset(14.285714% 14.285714%);
     height: 42.857143vh;
     width: 42.857143vw;
