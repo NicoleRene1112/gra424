@@ -46,7 +46,7 @@ body {
     display: flex;
     position: relative;
     top: -42.857143vh;
-    clip-path: inset(30% 30%);
+    /*clip-path: inset(30% 30%);*/
     height: 42.857143vh;
     width: 42.857143vw;
     margin: auto;
@@ -58,7 +58,10 @@ body {
     margin: auto;*/
     align-content: center;
     display: flex;
-    height: auto;
-    width: auto;
+    height: 105.087mm;
+    width: 15mm;
+}
+.st0 {
+    fill:#ff0000;
 }
 
