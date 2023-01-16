@@ -64,10 +64,10 @@ body {
 	border-color : #FFFFFF;
 	border-color : rgba(255, 255, 255, 1);
 	border-width : 5px;
-	position : absolute ;
+	/*position : absolute ;*/
 	left : 0px;
 	top : 0px;
-	width : 85px;
-	height : 297px;
+	/*width : 85px;
+	height : 297px;*/
 }
 
