@@ -98,7 +98,7 @@ body {
     width: calc(var(--parentWidth) / 11.35);
 }
 
-.subtraction1-container {
+.subtraction2-container {
     align-items: center;
     display: flex;
     position: relative;
