@@ -43,6 +43,7 @@ body {
 }
 
 .subtraction-container {
+    align-items: center;
     display: flex;
     position: relative;
     top: -42.857143vh;
