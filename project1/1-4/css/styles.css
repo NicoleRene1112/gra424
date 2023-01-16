@@ -41,6 +41,12 @@ body {
     background-color: black;
     margin: auto;
 }
+.first {
+    margin-left: 0;
+}
+.last {
+    margin-right: 0;
+}
 
 .subtraction-container {
     align-items: center;
@@ -67,9 +73,4 @@ body {
     height: calc(var(--parentHeight) / 1);
     width: calc(var(--parentWidth) / 9.75);
 }
-.first {
-    margin-left: 0;
-}
-.last {
-    margin-right: 0;
-}
+
