@@ -56,10 +56,9 @@ body {
     /*height: 42.857143vh;
     width: 1.86335404vw;
     margin: auto;*/
-    align-items: center;
+    align-content: center;
     display: flex;
-    height: 100%;
-    width: 100%;
-    margin: -13.2%;
+    height: auto;
+    width: auto;
 }
 
