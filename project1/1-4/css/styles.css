@@ -42,18 +42,7 @@ body {
     margin: auto;
 }
 
-/*.subtraction1-clip {
-    clip-path: inset(14.285714vh 14.285714vw);
-    display: flex;
-    height: 14.285714vh;
-    width: 14.285714vw;
-    margin: auto;
-    overflow: hidden;
-    position: relative;
-    top:-28.17384281vh;
-}*/
-
-.line2-container {
+.subtraction-container {
     display: flex;
     position: relative;
     top: -42.857143vh;
