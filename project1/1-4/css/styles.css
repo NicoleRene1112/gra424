@@ -53,6 +53,10 @@ body {
     top:-28.17384281vh;
 }
 
+.line2-container {
+    display: flex;
+}
+
 .line2 {
     display: flex;
     /*height: 42.857143vh;
