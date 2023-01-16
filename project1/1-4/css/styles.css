@@ -62,8 +62,10 @@ body {
     align-content: center;
     display: flex;
     margin: -1%;
-    height: 79.61136%;
-    width: 11.36%;
+    /*height: 79.61136%;
+    width: 11.36%;*/
+    height: calc(var(--parentHeight) / 1);
+    width: calc(var(--parentWidth) / 9.75);
 }
 .first {
     margin-left: 0;
