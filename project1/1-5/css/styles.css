@@ -37,7 +37,7 @@ body {
 .line {
     display: flex;
     height: 42.857143vh;
-    width: 0.35714vw;
+    width: 0.55vw;
     background-color: black;
     margin: auto;
 }
