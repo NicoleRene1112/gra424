@@ -30,7 +30,7 @@ html, body {
 .line {
     display: flex;
     height: 42.857143vh;
-    width: 0.5vw;
+    width: 0.55vw;
     background-color: black;
     margin: auto;
 }
