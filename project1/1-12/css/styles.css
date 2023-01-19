@@ -24,6 +24,7 @@ html,body {
     width: 42.857143vw;
     background-color: #FFFFFF;
     margin: auto;
+    justify-content: center;
 }
 
 .outer-half1 {
