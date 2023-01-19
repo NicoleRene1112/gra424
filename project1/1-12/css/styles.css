@@ -58,6 +58,13 @@ html,body {
     margin: auto auto auto 0;
 }
 
+#flap-container {
+    height: 42.857143vh;
+    width: 14.285714vw;
+    cursor: pointer;
+    -webkit-transition: all 1s ease-in-out;
+}
+
 .flap-half1 {
     display: flex;
     height: 42.857143vh;
@@ -72,8 +79,4 @@ html,body {
     width: 14.285714vw;
     background-color: #2C439B;
     margin: auto;
-}
-
-.hideme {
-    display:none
 }
