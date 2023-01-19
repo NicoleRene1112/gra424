@@ -24,8 +24,8 @@
     background-color: white;
     gap: 0;
     grid-template-columns: auto auto auto;
-    height: 71.428571vh;
-    width: 71.428571vw;
+    height: 42.857143vhvh;
+    width: 42.857143vhvw;
     margin: auto;
 }
 
