@@ -5,7 +5,7 @@
     height: 100%;
 }
 
-.square1 {
+.grid-containers {
     display: flex;
     background-color: white;
     height: 71.428571vh;
@@ -19,6 +19,14 @@
     height: 42.857143vh;
     width: 42.857143vw;
     background-color: black;
+    margin: auto;
+}
+
+.square4 {
+    display: flex;
+    height: 14.285714vh;
+    width: 14.285714vw;
+    background-color: #FFD574;
     margin: auto;
 }
 
