@@ -73,3 +73,13 @@ html,body {
     background-color: #2C439B;
     margin: auto;
 }
+
+.menu-btn:checked::after {
+    content: "Close Menu";
+  }
+  
+  .menu-btn::after {
+    content: "Open Menu";
+    background: rgba(233, 233, 33, 0.6);
+    padding: 0.5em;
+  }
