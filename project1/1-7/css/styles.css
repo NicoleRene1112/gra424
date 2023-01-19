@@ -2,12 +2,6 @@ html,body {
     height:100%;
 }
 
-body {
-    margin: auto;
-    overflow: hidden;
-    display: flex;
-}
-
 .webpage {
     background-color: white;
     display: flex;
