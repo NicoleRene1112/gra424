@@ -55,7 +55,7 @@ html,body {
     height: 14.285714vh;
     width: 7.142857vw;
     background-color: #BF9BC8;
-    margin: auto 0 auto auto;
+    margin: auto auto auto 0;
 }
 
 .flap-half1 {
