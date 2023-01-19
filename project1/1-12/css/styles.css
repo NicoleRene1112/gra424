@@ -69,15 +69,6 @@ html,body {
 
 .flap-container::after {
     /*content: "Open Menu";*/
-    padding: 0.5em;
-}
-
-.flap-container:checked + nav#menu {
-    display: block;
-}
-
-.flap-container:checked ~ div#logo{
-    display: none;
 }
 
 .flap-half1 {
