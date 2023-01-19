@@ -44,12 +44,14 @@ html,body {
 }
 
 .middle {
-    background-color: #FFD574;
+    background-color: #729296;
     grid-column-start: 2;
     grid-column-end: 3;
 }
 .two {
-    background-color: #BE3E5F;
-    grid-column-start: 3;
+    background-color: #FABBB1;
+    grid-column-start: 2;
     grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 4;
 }
