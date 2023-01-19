@@ -61,19 +61,4 @@ html,body {
     height: 42.857143vh;
     width: 42.857143vw;
     margin: auto;
-    /*--parentHeight: 42.857143vh;
-    --parentWidth: 42.857143vw;*/
-}
-
-.line2 {
-    /*height: 42.857143vh;
-    width: 1.86335404vw;
-    margin: auto;*/
-    align-content: center;
-    display: flex;
-    margin: -1%;
-    /*height: 79.61136%;
-    width: 11.36%;*/
-    height: calc(var(--parentHeight) / 1);
-    width: calc(var(--parentWidth) / 9.75);
 }
