@@ -27,13 +27,13 @@
     margin: auto;
 }
 
-.4 {
+.four {
     background-color: #FFD574;
     grid-column-start: 1;
     grid-column-end: 2;
 }
 
-.5 {
+.five {
     background-color: #FFD574;
     grid-column-start: 2;
     grid-column-end: 3
