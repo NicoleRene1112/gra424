@@ -6,7 +6,7 @@
 }
 
 .grid-containers {
-    display: flex;
+    display: grid;
     background-color: white;
     height: 71.428571vh;
     width: 71.428571vw;
