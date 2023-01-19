@@ -37,22 +37,22 @@
 }
 
 .one {
-    background-color: #FFD574;
+    background-color: #E1F3F5;
     grid-column-start: 1;
     grid-column-end: 2;
 }
 .two {
-    background-color: #FFD574;
+    background-color: #DFEBCC;
     grid-column-start: 2;
     grid-column-end: 3;
 }
 .three {
-    background-color: #FFD574;
+    background-color: #F492AB;
     grid-column-start: 3;
     grid-column-end: 4;
 }
 .four {
-    background-color: #FFD574;
+    background-color: #F6D8C2;
     grid-column-start: 1;
     grid-column-end: 2;
 }
@@ -62,22 +62,22 @@
     grid-column-end: 3;
 }
 .six {
-    background-color: #FFD574;
+    background-color: #BE3E5F;
     grid-column-start: 3;
     grid-column-end: 4;
 }
 .seven {
-    background-color: #FFD574;
+    background-color: #6ACBDE;
     grid-column-start: 1;
     grid-column-end: 2;
 }
 .eight {
-    background-color: #FFD574;
+    background-color: #6186C3;
     grid-column-start: 2;
     grid-column-end: 3;
 }
 .nine {
-    background-color: #FFD574;
+    background-color: #C03A27;
     grid-column-start: 3;
     grid-column-end: 4;
 }
