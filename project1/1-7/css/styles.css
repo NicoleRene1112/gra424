@@ -24,15 +24,17 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: black;
     margin: auto;
 }
 
 .4 {
     background-color: #FFD574;
-
+    grid-column-start: 1;
+    grid-column-end: 2;
 }
 
 .5 {
     background-color: #FFD574;
+    grid-column-start: 2;
+    grid-column-end: 3
 }
