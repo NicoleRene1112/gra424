@@ -23,6 +23,7 @@ html,body {
     background-color: white;
     gap: 0;
     grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
     height: 42.857143vh;
     width: 42.857143vw;
     margin: auto;
