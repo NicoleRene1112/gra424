@@ -71,9 +71,9 @@ html,body {
 .inner-half1 {
     display: flex;
     height: 14.285714vh;
-    width: 7.142857vw;
+    width: 14.285714vw;
     background-color: #F9DD5F;
-    margin: auto;
+    margin: auto 0 auto auto;
     z-index: auto;
 }
 
@@ -89,8 +89,8 @@ html,body {
 .inner-half2 {
     display: flex;
     height: 14.285714vh;
-    width: 7.142857vw;
+    width: 14.285714vw;
     background-color: #F7E659;
-    margin: auto;
+    margin: auto auto auto 0;
     z-index: auto;
 }
