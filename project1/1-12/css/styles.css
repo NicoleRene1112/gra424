@@ -59,6 +59,7 @@ html,body {
 }
 
 #flap-container {
+    display: flex;
     height: 42.857143vh;
     width: 14.285714vw;
     cursor: pointer;
