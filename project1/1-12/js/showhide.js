@@ -1,6 +1,3 @@
-function togglehide(id){
-
-    var el = document.getElementById(id);
-  el.classList.toggle('hideme');
-  
-}
+$("#mainBox").on("click", function () {
+    $(this).find("img").toggleClass("flip");
+  });
