@@ -59,12 +59,15 @@ body {
 
 .addition2-container {
     display: flex;
+    background: 
+        url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" viewBox="0 0 31.22 377.05" fill="black"><path d="M11.43,377.05c-6.9-47.4-10.86-116.11-10.86-188.53C0.57,116.11,4.53,47.4,11.43,0l19.79,2.88  c-6.77,46.49-10.65,114.15-10.65,185.65s3.88,139.16,10.65,185.65L11.43,377.05z"/></svg>')
+        center/auto 42.857143vw, 42.857143vh;
     clip-path: inset(0.1%);
     height: 42.857143vh;
     width: 42.857143vw;
     margin: auto;
     position: relative;
-    top: -84.7vh;
+    top: -85.7vh;
 }
 
 .line3 {
