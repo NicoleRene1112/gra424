@@ -73,3 +73,7 @@ html,body {
     background-color: #2C439B;
     margin: auto;
 }
+
+.hideme {
+    display:none
+}
