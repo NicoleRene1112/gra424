@@ -32,6 +32,7 @@ html,body {
     width: 42.857143vw;
     background-color: #372275;
     margin: auto;
+    z-index: auto;
 }
 
 .inner-half1 {
@@ -40,6 +41,7 @@ html,body {
     width: 7.142857vw;
     background-color: #BF9BC8;
     margin: auto 0 auto auto;
+    z-index:auto;
 }
 
 .outer-half2 {
@@ -48,6 +50,7 @@ html,body {
     width: 42.857143vw;
     background-color: #E7CCDA;
     margin: auto;
+    z-index: auto;
 }
 
 .inner-half2 {
@@ -56,6 +59,7 @@ html,body {
     width: 7.142857vw;
     background-color: #BF9BC8;
     margin: auto auto auto 0;
+    z-index: auto;
 }
 
 #flap-container {
@@ -64,6 +68,7 @@ html,body {
     width: 14.285714vw;
     cursor: pointer;
     visibility: visible;
+    z-index: 1;
 }
 
 #flap-container:active {
@@ -76,6 +81,7 @@ html,body {
     width: 7.142857vw;
     background-color: #E84A4E;
     margin: auto;
+    z-index: inherit;
 }
 
 .flap-half2 {
@@ -84,4 +90,5 @@ html,body {
     width: 7.142857vw;
     background-color: #2C439B;
     margin: auto;
+    z-index:inherit;
 }
