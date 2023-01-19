@@ -24,6 +24,7 @@ html,body {
     width: 42.857143vw;
     background-color: #FFFFFF;
     margin: auto;
+    justify-content: center;
 }
 
 #flap-container {
@@ -55,7 +56,7 @@ html,body {
     width: 7.142857vw;
     background-color: #00A858;
     margin: auto;
-    z-index:inherit;
+    z-index: inherit;
 }
 
 .outer-half1 {
@@ -64,6 +65,7 @@ html,body {
     width: 42.857143vw;
     background-color: #0084BE;
     margin: auto;
+    z-index: auto;
 }
 
 .inner-half1 {
@@ -72,6 +74,7 @@ html,body {
     width: 7.142857vw;
     background-color: #F9DD5F;
     margin: auto;
+    z-index: auto;
 }
 
 .outer-half2 {
@@ -80,6 +83,7 @@ html,body {
     width: 42.857143vw;
     background-color: #00A858;
     margin: auto;
+    z-index: auto;
 }
 
 .inner-half2 {
@@ -88,4 +92,5 @@ html,body {
     width: 7.142857vw;
     background-color: #F7E659;
     margin: auto;
+    z-index: auto;
 }
