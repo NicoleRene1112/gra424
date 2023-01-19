@@ -69,6 +69,7 @@ html,body {
     cursor: pointer;
     visibility: visible;
     z-index: 1;
+    position: absolute;
 }
 
 #flap-container:active {
