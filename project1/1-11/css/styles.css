@@ -26,6 +26,38 @@ html,body {
     margin: auto;
 }
 
+#flap-container {
+    display: flex;
+    height: 42.857143vh;
+    width: 14.285714vw;
+    cursor: pointer;
+    visibility: visible;
+    z-index: 1;
+    position: absolute;
+}
+
+#flap-container:active {
+    visibility:hidden;
+}
+
+.flap-half1 {
+    display: flex;
+    height: 42.857143vh;
+    width: 7.142857vw;
+    background-color: #0084BE;
+    margin: auto;
+    z-index: inherit;
+}
+
+.flap-half2 {
+    display: flex;
+    height: 42.857143vh;
+    width: 7.142857vw;
+    background-color: #00A858;
+    margin: auto;
+    z-index:inherit;
+}
+
 .outer-half1 {
     display: flex;
     height: 42.857143vh;
