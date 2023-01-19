@@ -42,43 +42,14 @@ html,body {
     grid-row-start: 1;
     grid-row-end: 3;
 }
-.two {
-    background-color: #DFEBCC;
-    grid-column-start: 2;
-    grid-column-end: 3;
-}
-.three {
-    background-color: #F492AB;
-    grid-column-start: 3;
-    grid-column-end: 4;
-}
-.four {
-    background-color: #F6D8C2;
-    grid-column-start: 1;
-    grid-column-end: 2;
-}
-.five {
+
+.middle {
     background-color: #FFD574;
     grid-column-start: 2;
     grid-column-end: 3;
 }
-.six {
+.two {
     background-color: #BE3E5F;
-    grid-column-start: 3;
-    grid-column-end: 4;
-}
-.seven {
-    background-color: #6ACBDE;
-    grid-column-start: 1;
-    grid-column-end: 2;
-}
-.eight {
-    background-color: #6186C3;
-    grid-column-start: 2;
-    grid-column-end: 3;
-}
-.nine {
-    background-color: #C03A27;
     grid-column-start: 3;
     grid-column-end: 4;
 }
