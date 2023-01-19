@@ -74,7 +74,7 @@ body {
     align-items: center;
     background: 
         url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" viewBox="0 0 37.55 130.68" fill="white"><path d="M12.48,130.68C7.13,117.59-0.36,94.57,0.01,65.09C0.38,35.71,8.39,12.94,14.06,0  c7.83,0.12,15.66,0.24,23.5,0.36C31.7,12.02,22.01,35.18,21.84,65.88c-0.16,30.14,8.94,53.06,14.56,64.78  C28.42,130.67,20.45,130.67,12.48,130.68z"/></svg>')
-        center/auto 42.857143vw, 42.857143vh;
+        center/auto 12.357143vw, 42.857143vh;
     display: flex;
     position: relative;
     top: -128.7vh;
