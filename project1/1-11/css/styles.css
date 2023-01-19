@@ -18,7 +18,7 @@
     display: flex;
     height: 42.857143vh;
     width: 42.857143vw;
-    background-color: black;
+    background-color: #372275;
     margin: auto;
 }
 
@@ -26,7 +26,7 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: white;
+    background-color: #BF9BC8;
     margin: auto;
 }
 
@@ -34,7 +34,7 @@
     display: flex;
     height: 42.857143vh;
     width: 42.857143vw;
-    background-color: black;
+    background-color: #E7CCDA;
     margin: auto;
 }
 
@@ -42,6 +42,6 @@
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
-    background-color: white;
+    background-color: #BF9BC8;
     margin: auto;
 }
