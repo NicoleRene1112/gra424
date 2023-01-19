@@ -30,7 +30,7 @@ html,body {
     display: flex;
     height: 42.857143vh;
     width: 42.857143vw;
-    background-color: #0084BE;
+    background-color: #372275;
     margin: auto;
 }
 
@@ -38,7 +38,7 @@ html,body {
     display: flex;
     height: 14.285714vh;
     width: 7.142857vw;
-    background-color: #F9DD5F;
+    background-color: #BF9BC8;
     margin: auto;
 }
 
@@ -46,7 +46,7 @@ html,body {
     display: flex;
     height: 42.857143vh;
     width: 42.857143vw;
-    background-color: #00A858;
+    background-color: #E7CCDA;
     margin: auto;
 }
 
@@ -54,6 +54,6 @@ html,body {
     display: flex;
     height: 14.285714vh;
     width: 7.142857vw;
-    background-color: #F7E659;
+    background-color: #BF9BC8;
     margin: auto;
 }
