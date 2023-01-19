@@ -40,32 +40,44 @@ html,body {
     background-color: #00858C;
     grid-column-start: 1;
     grid-column-end: 2;
-    grid-row-start: 1;
-    grid-row-end: 4;
 }
 .two {
     background-color: #00858C;
     grid-column-start: 2;
     grid-column-end: 3;
-    grid-row-start: 1;
-    grid-row-end: 2;
 }
 .three {
+    background-color: #ffffff;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+.four {
+    background-color: #00858C;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.five {
     background-color: #729296;
     grid-column-start: 2;
     grid-column-end: 3;
 }
-.five {
-    background-color: #FABBB1;
-    grid-column-start: 2;
-    grid-column-end: 3;
-    grid-row-start: 3;
-    grid-row-end: 4;
-}
-.five {
+.six {
     background-color: #FABBB1;
     grid-column-start: 3;
     grid-column-end: 4;
-    grid-row-start: 2;
-    grid-row-end: 4;
+}
+.seven {
+    background-color: #ffffff;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.eight {
+    background-color: #FABBB1;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+.nine {
+    background-color: #FABBB1;
+    grid-column-start: 3;
+    grid-column-end: 4;
 }
