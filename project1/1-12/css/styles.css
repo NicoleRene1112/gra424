@@ -39,7 +39,7 @@ html,body {
     height: 14.285714vh;
     width: 7.142857vw;
     background-color: #BF9BC8;
-    margin: auto;
+    margin: auto 0 auto auto;
 }
 
 .outer-half2 {
@@ -55,7 +55,7 @@ html,body {
     height: 14.285714vh;
     width: 7.142857vw;
     background-color: #BF9BC8;
-    margin: auto;
+    margin: auto 0 auto auto;
 }
 
 .flap-half1 {
