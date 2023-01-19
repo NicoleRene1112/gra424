@@ -20,7 +20,7 @@
     margin: auto;
 }
 
-.square2 {
+.square {
     display: flex;
     height: 14.285714vh;
     width: 14.285714vw;
@@ -28,18 +28,11 @@
     margin: auto;
 }
 
-.square4 {
-    display: flex;
-    height: 14.285714vh;
-    width: 14.285714vw;
+.4 {
     background-color: #FFD574;
-    margin: auto;
+
 }
 
-.square5 {
-    display: flex;
-    height: 14.285714vh;
-    width: 14.285714vw;
+.5 {
     background-color: #FFD574;
-    margin: auto;
 }
