@@ -28,6 +28,21 @@
     margin: auto;
 }
 
+.one {
+    background-color: #FFD574;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.two {
+    background-color: #FFD574;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+.three {
+    background-color: #FFD574;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
 .four {
     background-color: #FFD574;
     grid-column-start: 1;
@@ -39,6 +54,21 @@
     grid-column-end: 3;
 }
 .six {
+    background-color: #FFD574;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+.seven {
+    background-color: #FFD574;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.eight {
+    background-color: #FFD574;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+.nine {
     background-color: #FFD574;
     grid-column-start: 3;
     grid-column-end: 4;
