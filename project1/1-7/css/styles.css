@@ -9,6 +9,7 @@
     width: 100%;
     height: 100%;
     border: solid .25pt rgb(0, 0, 0, 80%);
+    margin: auto;
 }
 
 .grid-container {
