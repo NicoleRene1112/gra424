@@ -64,7 +64,6 @@ html,body {
     width: 14.285714vw;
     cursor: pointer;
     visibility: visible;
-    transition: visibility 1s;
 }
 
 #flap-container:active {
