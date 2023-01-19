@@ -63,7 +63,12 @@ html,body {
     height: 42.857143vh;
     width: 14.285714vw;
     cursor: pointer;
-    -webkit-transition: all 1s ease-in-out;
+    visibility: visible;
+    transition: visibility 1s;
+}
+
+#flap-container:active {
+    visibility:hidden;
 }
 
 .flap-half1 {
