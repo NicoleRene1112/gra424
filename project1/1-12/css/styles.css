@@ -64,12 +64,11 @@ html,body {
 }
 
 .flap-container:checked::after {
-    content: "Close Menu";
+    /*content: "Close Menu";*/
 }
 
 .flap-container::after {
-    content: "Open Menu";
-    background: rgba(233, 233, 33, 0.6);
+    /*content: "Open Menu";*/
     padding: 0.5em;
 }
 
