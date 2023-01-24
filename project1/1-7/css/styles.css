@@ -38,7 +38,7 @@ html,body {
 }
 
 .image-hover:hover{
-    background-image: url(img/cipicture.jpg);
+    background-image: url('img/cipicture.jpg');
     background-color: #BE3E5F;
 }
 
