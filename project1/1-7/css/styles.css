@@ -28,14 +28,17 @@ html,body {
     margin: auto;
 }
 
-.image-hover:hover{
-    background-image: url('project1/1-7/img/CIPicture');
-    background-color: #BE3E5F;
+.image-hover{
     display:flex;
     height: 42.857143vh;
     width: 42.857143vw;
     margin: auto;
     z-index: 1;
+}
+
+.image-hover:hover{
+    background-image: url('project1/1-7/img/CIPicture');
+    background-color: #BE3E5F;
 }
 
 .square {
