@@ -33,7 +33,7 @@ html,body {
     background-color: #BE3E5F;
     display:flex;
     height: 42.857143vh;
-    width: 42.857143vh;
+    width: 42.857143vw;
     margin: auto;
     z-index: 1;
 }
