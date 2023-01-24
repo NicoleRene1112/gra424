@@ -28,7 +28,7 @@ html,body {
     margin: auto;
 }
 
-.image-hover{
+.image-hover:hover{
     background-image: url('project1/1-7/img/CIPicture');
     background-color: #BE3E5F;
     height: 42.857143vhvh;
