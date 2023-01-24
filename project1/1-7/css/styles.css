@@ -28,6 +28,13 @@ html,body {
     margin: auto;
 }
 
+.image-hover{
+    background-image: white;
+    height: 42.857143vhvh;
+    width: 42.857143vhvw;
+    margin: auto;
+}
+
 .square {
     display: flex;
     height: 14.285714vh;
